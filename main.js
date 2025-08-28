@@ -1,1 +1,1 @@
-console.log('hello_test2')
+console.log('hello_test2, fix bug')
