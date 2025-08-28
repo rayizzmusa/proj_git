@@ -1,0 +1,5 @@
+app.log
+*.log
+#bisa dengan nama file lengkap atau cukup *.log
+build/
+#folder yang diignore
