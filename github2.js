@@ -1,1 +1,1 @@
-ini dibuat digithub.com
+console.log('ini dibuat digithub.com')
