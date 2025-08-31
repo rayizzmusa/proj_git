@@ -1,1 +1,1 @@
-console.log('praktek')
+console.log('praktek_skuy')
